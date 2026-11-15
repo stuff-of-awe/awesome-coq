@@ -227,9 +227,10 @@ and arithmetic.
 * https://coq.inria.fr/refman/proof-engine/ltac2.html[Ltac2] -
 Experimental typed tactic language similar to Coq’s classic Ltac
 language.
-* https://github.com/MetaCoq/metacoq[MetaCoq] - Project formalizing Coq
-in Coq and providing tools for manipulating Coq terms and developing
-certified plugins.
+* https://github.com/MetaRocq/metarocq[MetaRocq (formerly MetaCoq)] -
+Project formalizing Rocq in Rocq, including verified type checking and
+tools for certified plugins. Check the exact calculus and implementation
+scope before interpreting a formal result as an end-to-end guarantee.
 * https://github.com/Mtac2/Mtac2[Mtac2] - Plugin adding typed tactics
 for backward reasoning.
 * https://github.com/coq-community/paramcoq[Paramcoq] - Plugin to
